@@ -1,0 +1,37 @@
+{
+  "790684582156566568": [
+    {
+      "id": "401837925920145408",
+      "usuario": "Snas",
+      "personagem": "Chris",
+      "vida": 0,
+      "mana": 0,
+      "xp": 0,
+      "vidaFull": 20,
+      "manaFull": 50,
+      "xpFull": 100
+    },
+    {
+      "id": "759122365027319880",
+      "usuario": "D11EG00",
+      "personagem": "Beto",
+      "vida": 0,
+      "mana": 0,
+      "xp": 0,
+      "vidaFull": 20,
+      "manaFull": 50,
+      "xpFull": 100
+    },
+    {
+      "id": "689893237976203309",
+      "usuario": "Ben 10 Negativo",
+      "personagem": "Luís Kennedy",
+      "vida": 0,
+      "mana": 40,
+      "xp": 25,
+      "vidaFull": 50,
+      "manaFull": 50,
+      "xpFull": 100
+    }
+  ]
+}
